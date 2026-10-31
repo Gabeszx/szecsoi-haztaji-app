@@ -1,5 +1,5 @@
 // Csak a burok fájljait tárolja; maga az app (script.google.com) mindig élőben töltődik.
-const CACHE = 'haztaji-v1';
+const CACHE = 'haztaji-v2';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'favicon.ico',
   'icon-192.png', 'icon-512.png', 'maskable-192.png', 'maskable-512.png'];
 
